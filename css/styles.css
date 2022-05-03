@@ -1,0 +1,106 @@
+a{
+    color: #11999e;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color:#eaf6f6
+}
+body{
+    margin:0;
+    /* align-items: center; */
+    text-align: center;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+.contact{
+    /* padding: 20px; */
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    color: white;
+    font-size: large;
+    margin-top: 20px;
+    background-color: #66bfbf;
+}
+.chilli{
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.cloud-img{
+    height: 50px;
+    width: 100px;
+    /* top: 20px; */
+}
+.code{
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.contact-me{
+    margin-bottom: 50px;
+}
+.copyright{
+    color: #eaf6f6;
+    font-family: sans-serif;
+}
+.footer{
+    /* height: 100px; */
+    background-color: #66bfbf;
+    /* margin: auto; */
+    /* text-align: center; */
+    /* text-decoration: none; */
+    padding: 50px 0 20px;
+}
+h1,h2,h3{
+    color: #66bfbf;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    border-top: 5px dotted rgb(211, 210, 210);
+    width: 5%;
+    margin: 5px auto;
+}
+.mountain-img{
+    height: 500px;
+}
+.name{
+    margin:0;
+}
+.pro{
+    text-decoration: underline;
+}
+.profile{
+    margin-top: 50px;
+}
+.profile-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.skills{
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+
+.top-section{
+    background-color: #eaf6f6;
+    padding-top: 100px;
+    position: relative;
+}
